@@ -1,6 +1,6 @@
-meringue is cute
+nothing here yet, check back soon...
 
 <!---
-EnJay64/EnJay64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ENJAY64/ENJAY64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
